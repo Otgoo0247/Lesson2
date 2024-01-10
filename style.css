@@ -1,0 +1,69 @@
+.header .containen{
+    background-color: black;
+    color: white;
+}
+.header .logo{
+    font-size: 25px;
+    list-style: none;
+}
+.header .logo ul li{
+    list-style: none;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.header .text{
+    display: flex;
+    margin-left: -200px;
+}
+.header .text ul li{
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.Name {
+    background-color: black;
+    color: white;
+
+}
+.Name .text ul li{
+    list-style: none;
+    justify-content: center;
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+    font-size: 20px;
+    justify-items: center;
+    text-align: center;
+}
+.Call {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+.Call .text ul li{
+    list-style: none;
+    justify-content: center;
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+    background-image: url(backround.jpg);
+}
+.image ul li{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: -10px;
+    color: white;
+}
+.image h4{
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-top: 10px;
+    color: white;
+}
+img{
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
